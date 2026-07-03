@@ -1,0 +1,1 @@
+custom global.ini, combined from personal changes as well as parts of MrKraken's StarStrings, merged together via StarMeld
